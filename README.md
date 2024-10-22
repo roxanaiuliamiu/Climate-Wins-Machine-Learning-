@@ -24,8 +24,4 @@ Machine learning models trained on historical data can accurately predict future
 Supervised learning models are particularly effective for forecasting whether pleasant weather conditions will occur on a given day.
 Project Folder Structure
 
-The project files are organized into the following folders:
 
-1. Data
-2. Scripts
-3. Presentation
